@@ -5,7 +5,7 @@
 <h1 align="center">Raheel A. Rehman</h1>
 <h3 align="center">AI/ML GenAI Engineering • Data Science • Data Analysis</h3>
 
-**Bengaluru, India • [Portfolio]([https://raheel-rehman.vercel.app])**  
+**Bengaluru, India • [Portfolio](https://raheel-rehman.vercel.app) 
 
 Machine Learning and Generative AI Engineer experienced in building end-to-end AI systems across data pipelines, classical ML, deep learning, and LLM-based applications. Backed by nearly three years at Goldman Sachs, where I worked on automation, analytics, and large-scale data workflows. I focus on developing reliable, scalable, and production-ready AI/ML systems that drive measurable business impact.
 
